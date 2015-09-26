@@ -1,8 +1,5 @@
 #! /usr/bin/perl
 
-use warnings;
-use strict;
-
 use Modern::Perl;
 use C4::Context;
 use Koha::Database;
